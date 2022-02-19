@@ -35,5 +35,11 @@
 | <img src = "https://github.com/JooJiyun/Review_Note_Helper/blob/main/screenshot/format.png" width ="400" height="580">  |  <img src = "https://github.com/JooJiyun/Review_Note_Helper/blob/main/screenshot/format_area.png" width ="400" height="580">  |
 
 -노란색 영역 : header와 footer 영역
+
 -분홍색 영역 : 문제영역
+
 -파란색 영역 : 문제번호영역
+
+<br>
+
+* 생성된 파일 : header 영역에는 저장된 파일의 이름이 적혀지고 문제번호는 새롭게 붙여지게 됩니다. 하단에는 페이지도 함께 쓰여있습니다.
