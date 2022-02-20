@@ -1,5 +1,7 @@
 # 오답노트 도우미
  ##### 문제파일(pdf파일)과 틀린번호 입력 -> 오답파일 생성
+
+실행 파일 : https://drive.google.com/file/d/1hxmhcjuuRfHMtsZsYPNwW5QKajD3bHsd/view?usp=sharing
  
 * 사용 라이브러리
 
