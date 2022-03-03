@@ -16,9 +16,9 @@
 
 * 스크린샷
 
-| <img src = "https://github.com/JooJiyun/Review_Note_Helper/blob/main/screenshot/capture1.PNG" width ="400" height="265">  |
+| <img src = "https://github.com/JooJiyun/Review_Note_Helper/blob/main/screenshot/capture1.PNG" >  |
 | ------------ |
-| <img src ="https://github.com/JooJiyun/Review_Note_Helper/blob/main/screenshot/capture2.PNG" width ="400" height="265">  |
+| <img src ="https://github.com/JooJiyun/Review_Note_Helper/blob/main/screenshot/capture2.PNG" >  |
 
 
 <br>
@@ -45,9 +45,9 @@
 
 * 스크린샷
 
-| <img src = "https://github.com/JooJiyun/Review_Note_Helper/blob/main/screenshot/ex_pr_capture1.PNG" width ="400" height="265">  |
+| <img src = "https://github.com/JooJiyun/Review_Note_Helper/blob/main/screenshot/ex_pr_capture1.PNG">  |
 | ------------ |
-| <img src ="https://github.com/JooJiyun/Review_Note_Helper/blob/main/screenshot/ex_pr_capture2.PNG" width ="400" height="265">  |
+| <img src ="https://github.com/JooJiyun/Review_Note_Helper/blob/main/screenshot/ex_pr_capture2.PNG">  |
 
 ! 이슈
  - 2018년도 수능의 4, 5번과 같은 흐릿한 이미지가 pdf에서 이미지로 convert되면서 누락됨(사라짐). 
