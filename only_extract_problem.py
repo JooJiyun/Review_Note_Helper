@@ -49,7 +49,7 @@ class MainSystem(QMainWindow):
         self.line_edit_comment = QLineEdit(self)
         self.layout_main.addWidget(self.line_edit_comment)
         
-        self.checkbox_copyright = QCheckBox('첫 페이지가 저작권 안내 페이지인 경우 체크해주세요.', self)
+        self.checkbox_copyright = QCheckBox('문제지의 첫 페이지가 저작권 안내 페이지인 경우 체크해주세요.', self)
         self.layout_main.addWidget(self.checkbox_copyright)
         
         self.layout_main.addWidget(self.createLayoutPaperSlice())
@@ -186,6 +186,8 @@ class MainSystem(QMainWindow):
         
         problem_no = 1
         for img_idx in range(len(pdf_images)):
+            if (self.checkbox_copyright.isChecked()) & (img_idx==0):
+                continue
             pdf_images[img_idx] = pdf_images[img_idx].resize((2339,3309))
             np_image = np.array(pdf_images[img_idx])
         
